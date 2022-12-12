@@ -1,0 +1,32 @@
+.hero-image {  
+    /* Set a specific height */
+    height: 50%;
+    width: 100%;
+}
+
+.text-section{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.para{
+    width: 80%;
+}
+
+.button-sections{
+    margin-bottom: 2%;
+}
+
+.button-links{
+    min-width: 200px;
+    max-width: 200px;
+    min-height: 100px;
+}
+
+.grid-space{
+    padding: 2%;
+}
+
+.links{
+    text-decoration: none;
+}

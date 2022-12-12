@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8694fad.css",
+    "main.js": "/static/js/main.d368aaf3.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/learnImage.png": "/static/media/learnImage.7f7182108fef79e323f4.png",
+    "static/media/commodities.jpg": "/static/media/commodities.e2cb5eb63393b69ad240.jpg",
+    "static/media/heroImage.png": "/static/media/heroImage.179a29c32cbf52187005.png",
+    "static/media/playImage.png": "/static/media/playImage.85a28a77798a85478e71.png",
+    "static/media/fixedAssets.jpeg": "/static/media/fixedAssets.dadc13466d1ac640f90f.jpeg",
+    "static/media/familiarizeImage.png": "/static/media/familiarizeImage.26c6d44346e25e972948.png",
+    "static/media/digitalGold.jpg": "/static/media/digitalGold.5da9c0d45a521c9d47e9.jpg",
+    "static/media/insurancePolicy.jpg": "/static/media/insurancePolicy.ac876c7fd54f84fa38ac.jpg",
+    "static/media/stockMarket.jpg": "/static/media/stockMarket.93fee7f5c5a2723e66a8.jpg",
+    "static/media/mutualfunds.jpg": "/static/media/mutualfunds.da120fe32cf921ca6740.jpg",
+    "static/media/savings.jpg": "/static/media/savings.193fef6ab05e715e9f82.jpg",
+    "static/media/fixedDeposits.jpg": "/static/media/fixedDeposits.bb86b1b3e97f58fed52d.jpg",
+    "index.html": "/index.html",
+    "main.c8694fad.css.map": "/static/css/main.c8694fad.css.map",
+    "main.d368aaf3.js.map": "/static/js/main.d368aaf3.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8694fad.css",
+    "static/js/main.d368aaf3.js"
+  ]
+}

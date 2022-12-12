@@ -1,0 +1,53 @@
+.hero-image {  
+    /* Set a specific height */
+    height: 50%;
+    width: 100%;
+}
+
+.second-section{
+  margin-top: 5%;
+}
+
+.circle {
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding: 5%;
+  background-color: #5a5a5a;
+  border-color: #5a5a5a;
+}
+
+.buttons-section-main{
+  text-align: center;
+}
+
+.text-section-1 {
+  display: inline-block;
+  margin-left: 15%;
+}
+
+.text-section-2 {
+  display: inline-block;
+  margin-left: 25%;
+}
+
+.text-section-3 {
+  display: inline-block;
+  margin-left: 24%;
+}
+
+
+
+.icons{
+  transform: scale(4);
+  color: white;
+}
+
+.text{
+  font-size: xx-large;
+}
+
+.linked{
+  cursor: pointer;
+}

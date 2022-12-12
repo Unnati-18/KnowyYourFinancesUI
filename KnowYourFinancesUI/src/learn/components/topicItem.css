@@ -1,0 +1,23 @@
+.container {
+    max-width: 90%;
+    margin-top: 5%;
+    overflow: hidden;
+}
+
+.image-container {
+    max-width: 50%;
+    margin: 30px 30px 30px 0;
+    float: left;
+}
+
+.text-container {
+    display: inline;
+}
+
+.next-para{
+    max-width: 80%;
+}
+
+.heading{
+    padding-top: 10px;
+}

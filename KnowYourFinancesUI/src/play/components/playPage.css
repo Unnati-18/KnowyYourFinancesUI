@@ -1,0 +1,48 @@
+.hero-image {  
+    /* Set a specific height */
+    height: 50%;
+    width: 100%;
+}
+
+.top-text{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.text-area{
+    margin-left: 2%;
+    display: flex;
+}
+
+.ques{
+    margin-left: 2%;
+}
+
+.play-area{
+    margin: 2% auto;
+    width: 95%;
+    background-color: #F0EEEE;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.inside-form{
+    margin: 2%;
+}
+
+.boxes{
+    margin: 2%;
+    margin-bottom: 0;
+    padding-top: 2%;
+}
+
+.field-name{
+    padding-bottom: 20px;
+}
+
+.buttons-section{
+    margin-left: 45%;
+    margin-bottom: 2%;
+    display: flex;
+}
